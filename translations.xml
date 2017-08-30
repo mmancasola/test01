@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<mainRoot>
+		<node1>
+			<subnode1 value="val">test</subnode1>
+			<subnode2 value="val">test</subnode2>
+			<subnode3 value="val">test</subnode3>
+		</node1>
+		<node2>
+			<subnode1 value="val">test</subnode1>
+			<subnode2 value="val">test</subnode2>
+			<subnode3 value="val">test</subnode3>
+		</node2>
+		<node3>
+			<subnode1 value="val">test</subnode1>
+			<subnode2 value="val">test</subnode2>
+			<subnode3 value="val">test</subnode3>
+		</node3>
+	</mainRoot>
+	
